@@ -1,0 +1,283 @@
+{
+  "impuls": "IMPULS",
+  "impuls_2": "TIBBIYOT INSTITUTI",
+  "name_univer": "Impuls Tibbiyot Instituti",
+  "bosh_sahifa": "IMI haqida",
+  "usmle": "USMLE",
+  "biz_haqimizda": "Biz Haqimizda",
+  "el_kutibxona": "Elektron Kutubxona",
+  "kutibxona": "Kutubxona",
+  "aloqa": "Aloqa",
+  "ariza_qoldirish": "Ariza qoldirish",
+  "FAQ": "FAQ",
+  "navtop_location": "Namangan shahar, K.Otamirzayev ko'chasi. 1",
+  "imi_support": "imi_support",
+  "tuzilma": "Tuzilma",
+  "o'quv_bino": "O'quv bino",
+  "imi_nizom": "Institut nizomi",
+  "rektorat": "Rektorat",
+  "rektor": "Rektor",
+  "kengash": "Institut kengashi",
+  "markaz_bo'lim": "Markaz va bo'limlar",
+  "bosh_sahifa": "BOSH SAHIFA",
+  "teachers": "O'qituvchilarimiz",
+  "sertficate_link_p": "Institut litsenziyasi va sertifikatning notarial tarjimasini yuklab olish uchun havolani bosing",
+  "litsenziya_link_a_1": "Sertifikat",
+  "litsenziya_link_a_2": "Litsenziya",
+  "fakultet": "Fakultet",
+  "hujjat_topshirish": "Hujjat topshirish",
+
+
+
+  "biz_haqimzida_h1": "Impuls Tibbiyot Instituti",
+  "biz_haqimizda_p-1": "Impuls tibbiyot instituti oʻz oldiga mintaqadagi yetakchi oliy taʼlim muassasasi boʻlish maqsadini amalga oshirish va Oʻzbekiston taraqqiyotiga hissa qoʻshishni maqsad qilgan.",
+  "biz_haqimizda_p-2": "Institutning vazifasi: Mamlakatning tibbiyot hodimlariga boʻlgan talabini hisobga olib, yetarli miqdordagi talabalarni oʻqitish, professional kadrlar tayyorlash boʻyicha yechimlar taklif qilish, yangi taʼlim texnologiyalarini ishlab chiqarish va taʼlim-tarbiya tamoyillarini ishlab chiqish. Impuls tibbiyot instituti turli mamlakatlardan kelgan talabalarga xalqaro miqyosda tan olingan standartlarda ta’lim beradi.",
+  "biz_haqimizda_p-3": "O‘quv jarayoni yetakchi xalqaro ilmiy-tadqiqot muassasalari jumladan tibbiyot yo‘nalishidagi va xorijda mehnat qilayotgan yurtdoshlarimiz bilan hamkorlikda olib borilmoqda. O‘qish ingliz va oʻzbek tilida bo‘lib, 6 yil davom etadi. Bitiruvchilarga oliy ma’lumot toʻgʻrisidagi diplom beriladi. Impuls instituti mas’uliyatni yaxshi biladi, oʻz kuchi va imkoniyatini talabalar va professor-o‘qituvchilar birgalikda samarali tadqiqot olib borishlari mumkin bo‘lgan intellektual muhitni yaratishga bag‘ishlaydi. Institut oʻz talabalariga eng zamonaviy va eng sifatli taʻlimni taklif qilishni maqsad qilgan. Institutni ushbu uzoq ta’lim yo‘liga qadam qo‘ygan har bir talaba o‘z bilimlari bilan to‘liq ta’minlangan shaxs sifatida bitiradi",
+  "biz_haqimizda_p-4": "Impuls instituti bu mas’uliyatni yaxshi biladi va o‘zini talabalar va professor-o‘qituvchilar birgalikda samarali va samarali tadqiqot olib borishlari mumkin bo‘lgan intellektual muhitni yaratishga bag‘ishlaydi. Institut o'z talabalariga eng zamonaviy va eng sifatli ta'limni taklif qilishni maqsad qilgan. Institutimizda ushbu uzoq ta’lim yo‘liga qadam qo‘ygan har bir talaba o‘z bilimlari bilan to‘liq ta’minlangan va to‘liq ta’minlangan shaxs sifatida bitiradi.",
+  "biz_haqimizda_btn": "Biz haqimizda batafsil",
+
+
+  "impuls_box_h1_1": "IMPULS",
+  "impuls_box_p_1": "tibbiyot instituti bilan jahon bilimlar eshigini oching.",
+  "impuls_box_h1_2": "Xalqaro",
+  "impuls_box_p_2": "standartdagi tibbiyot instituti endi Namanganda sen biz bilan bo'lishing kerak.",
+  "impuls_box_h1_3": "Namanganda",
+  "impuls_box_p_3": "ilk bor xususiy raqamli tibbiyot instituti.",
+
+
+  
+  "ko'p_beriladighan_savollar": "Ko'p Beriladigan Savollar",
+  "accordion_section_p": "Impuls Instituti o'qitish, o'rganish va tadqiqot sohasida mukammallikka intiladi. Impuls instituti va uning asoschisi talabalar, xodimlar uchun eng zamonaviy sharoitlarni yaratish ustida astoydil harakat qilmoqda. Bizning maqsadimiz nafaqat O‘zbekistonda balki Markaziy Osiyoda ham eng yaxshi ta’lim va tadqiqot muhitini yaratishdir.",
+
+  "savol_1": "Diplomingiz O'zbekistonda tan olinadimi ?",
+  "javob_1": "IMPULS Medical institutini tamomlagan talabalar diplomi nafaqat O'zbekiston balki butun dunyoda tan olinadi.",
+
+  "savol_2": "Shartnoma toʻlovi qancha ?",
+  "javob_2": "O‘zbekistondagi mahalliy talabalar uchun o‘qish to‘lovi 33 000 000 so‘mni (3 000 AQSH dollari) tashkil etadi, xorijlik talabalar uchun esa biroz farq qilishi mumkin. va bizda bo'lib-bo'lib to'lash imkoniyati ham mavjud.",
+
+  "savol_3": "Mashgʻulotlar qaysi tillarda olib boriladi ?",
+  "javob_3": "Barcha mashgʻulotlar guruhga qarab o'zbek yoki ingliz tillarida o'tkaziladi.",
+
+  "savol_4": "Stipendiyalar bormi ?",
+  "javob_4": "Biz xususiy institut bo'lganimiz sababli, IMPULS Medical o'zini o'zi moliyalashtiradi va talabalarga grand berish imkoniyatiga ega emas, ammo imtihonlarni muvaffaqiyatli topshirgan eng yaxshi 10% talabalar uchun grandlar mavjud.",
+
+  "savol_5": "Qabul uchun qanday hujjatlar kerak ?",
+  "javob_5": "IMPULS Medical ga muvaffaqiyatli qabul qilinish bosqichlaridan biri hujjat topshirishdir. Buning uchun siz quyidagilarni taqdim etishingiz kerak: —Maktab attestatining asl nusxasi yoki o'rta ta'lim diplomi",
+  "javob_5_span_1": "— Pasport nusxasi (2 dona);",
+  "javob_5_span_2": "— Rasm 3x4 (6 ta).",
+  "javob_5_span_3": "Hujjatlar PDF formatida yoki Namangan shahridagi davlat xizmatlari markazida onlayn tarzda taqdim etilishi mumkin.",
+
+  "savol_6": "Tayyorgarlik kurslarida nimalar o'tiladi ?",
+  "javob_6": "Imtihonlarni muvaffaqiyatli topshirish va IMPULS Medical da grant asosida taʼlim olish uchun tayyorgarlik kurslarini oʼtash kerak. Dastur 6 oy davom etadi va u ingliz tili va anatomiya fanlaridan iborat. Kursni tugatganlar uchun IELTS bali 5.0 boʻladi. Bu oʻz bilimingizni oshirish va universitetdagi byudjet o'rninni egallash uchun ajoyib imkoniyatdir.",
+
+  "savol_7": "Talabalarga nimalarni taklif qilayapmiz ?",
+  "javob_7": "Imtihonlarni yuqori ballga topshirganlar uchun IMPULS Medical maxsus grantlar taqdim etadi. Bizda institutga kirish imtihonlari yaʼni, anatomiya va ingliz tili bo'yicha maxsus tayyorgarlik kurslari o'tkaziladi, ularni bitirganlarga IELTS imtihonidan oʻtish bali 4.5 etib belgilanadi ✅ Bularning barchasi talabalarning intilishlarini qoʻllab-quvvatlash va kelajakka boʻlgan ishonchlarini oshirish maqsadida amalga oshiriladi.",
+
+  "footer_h1": "Aloqa ma'lumotlari",
+  "link_1": "Namangan shahar, G'isht ko'prik MFY, К. Otamirzayev ko'chasi, 1-уй",
+  "sahifalarimiz": "Sahifalarimiz",
+
+  "banner_h1": "Impuls Tibbiyot Institutiga",
+  "banner_h2": "Hush Kelibsiz",
+
+  "header_h1": "Impuls Tibbiyot Instituti",
+  "header_p_1": "Impuls tibbiyot instituti oʻz oldiga mintaqadagi yetakchi oliy taʼlim muassasasi boʻlish maqsadini amalga oshirish va Oʻzbekiston taraqqiyotiga hissa qoʻshishni maqsad qilgan. Institutning vazifasi: Mamlakatning tibbiyot hodimlariga boʻlgan talabini hisobga olib, yetarli miqdordagi talabalarni oʻqitish, professional kadrlar tayyorlash boʻyicha yechimlar taklif qilish, yangi taʼlim texnologiyalarini ishlab chiqarish va taʼlim-tarbiya tamoyillarini ishlab chiqish. Impuls tibbiyot instituti turli mamlakatlardan kelgan talabalarga xalqaro miqyosda tan olingan standartlarda ta’lim beradi.",
+  "header_p_2": "O‘quv jarayoni yetakchi xalqaro ilmiy-tadqiqot muassasalari jumladan tibbiyot yo‘nalishidagi va xorijda mehnat qilayotgan yurtdoshlarimiz bilan hamkorlikda olib borilmoqda. O‘qish ingliz va oʻzbek tilida bo‘lib, 6 yil davom etadi. Bitiruvchilarga oliy ma’lumot toʻgʻrisidagi diplom beriladi. Impuls instituti mas’uliyatni yaxshi biladi, oʻz kuchi va imkoniyatini talabalar va professor-o‘qituvchilar birgalikda samarali tadqiqot olib borishlari mumkin bo‘lgan intellektual muhitni yaratishga bag‘ishlaydi. Institut oʻz talabalariga eng zamonaviy va eng sifatli taʻlimni taklif qilishni maqsad qilgan. Institutni ushbu uzoq ta’lim yo‘liga qadam qo‘ygan har bir talaba o‘z bilimlari bilan to‘liq ta’minlangan shaxs sifatida bitiradi.",
+
+  "header_p_3": "O‘quv jarayoni yetakchi xalqaro ilmiy-tadqiqot muassasalari, jumladan, tibbiyot yo‘nalishidagi va xorijda mehnat qilayotgan yurtdoshlarimiz bilan hamkorlikda olib borilmoqda. O‘qish ingliz va o'zbek tilida bo‘lib, 6 yil davom etadi. Bitiruvchilarga oliy ma'lumot to'g'risidagi diplom beriladi. Tadqiqot, kashfiyot va haqiqatni izlash institutning muhim xususiyatlari hisoblanadi.",
+
+  "header_p_4": "Impuls instituti bu mas’uliyatni yaxshi biladi va o‘zini talabalar va professor-o‘qituvchilar birgalikda samarali va samarali tadqiqot olib borishlari mumkin bo‘lgan intellektual muhitni yaratishga bag‘ishlaydi. Institut o'z talabalariga eng zamonaviy va eng sifatli ta'limni taklif qilishni maqsad qilgan. Institutimizda ushbu uzoq ta’lim yo‘liga qadam qo‘ygan har bir talaba o‘z bilimlari bilan to‘liq ta’minlangan va to‘liq ta’minlangan shaxs sifatida bitiradi.",
+
+  "gallery_h1": "Institutimiznig ichki ko'rinishlari",
+
+  "message-ok": "Xabaringiz yuborildi siz bilan 24 soat ichida boglanamiz",
+
+  "kutibxona_banner_h1": "Impuls Institut Kutubxonasi",
+  "ilmiy_kitoblar": "Ilmiy Kitoblar",
+  "adabiy_kitoblar": "Adabiy Kitoblar",
+  "oqish_btn": "O'qish",
+  "search_btn": "Qidirish",
+
+  "aloqa_h1": "Bizga savolingiz bormi ?",
+  "left_menu_h1": "Aloqaga chiqamiz",
+  "left-menu_p": "Bizga habaringizni qoldiring va biz sizga 24 soat ichida aloqaga chiqamiz.",
+  "manzil": "Manzil: Namangan shahar, G'isht ko'prik MFY, К. Otamirzayev ko'chasi, 1-уй",
+  "pochta": "Email pochta: impulsmedica7@gmail.com",
+  "telefon": "Telefon: + 69 239 50 15",
+  "pl_1": "Ismingiz:",
+  "pl_2": "Email pochtangiz:",
+  "pl_3": "Telefon raqamingiz:",
+  "textarea": "Habaringiz:",
+  "form_btn": "Yuborish",
+  "habar": "Habaringizni qoldiring",
+
+  "about_usmle": "USMLE - o'zi nima",
+  "about_usmle_text": "US Medical Licensing Examination® (USMLE®) uch qismli AQSh tibbiy litsenziyalash imtihonidir. USMLE shifokorning bilimlar, tushunchalar va tamoyillarni qo'llash hamda salomatlik va kasallik uchun muhim bo'lgan hamda xavfsiz va samarali bemorlarni parvarish qilish asosini tashkil etuvchi asosiy bemorga yo'naltirilgan ko'nikmalarni namoyish etish qobiliyatini baholaydi.",
+  "about_usmle_btn": "Ko'proq bilish",
+
+  "usmle_big_h1_1": "USML kim?",
+  "usmle_big_h1_2": "USMLEni kim boshqaradi?",
+  "usmle_big_h1_3": "Nega bitta milliy imtihon?",
+  "usmle_big_h1_4": "USMLE missiyasi bayonoti",
+
+  "usmle_big_p_1": "Qo'shma Shtatlar va uning hududlarida turli yurisdiktsiyalarning alohida tibbiy litsenziyalash organlari (davlat tibbiy kengashlari) tibbiyot bilan shug'ullanish uchun litsenziyalar beradi. Har bir sog'liqni saqlashni litsenziyalash organi o'z qoidalari va qoidalarini belgilaydi va litsenziya olish uchun malaka imtihonidan o'tishni talab qiladi. USMLE natijalari tibbiyot bilan shug'ullanish uchun dastlabki litsenziyani berishda foydalanish uchun ushbu organlarga xabar qilinadi. USMLE ularga dastlabki tibbiy litsenziya da'vogarlari uchun umumiy baholash tizimini taqdim etadi.",
+
+  "usmle_big_p_2": "USMLE® yoki Amerika Qo'shma Shtatlari Tibbiy Litsenziyalash Imtihon® Dasturi ikkita tashkilotga tegishli: Davlat Tibbiyot Kengashlari Federatsiyasi (FSMB) va Tibbiy Ekspertlar Milliy Kengashi (NBME®).",
+
+  "usmle_big_p_3": "FSMB notijorat tashkilot bo'lib, AQShning 70 shtatlari va ularning hududlarining tibbiy va osteopatik kengashlarini ifodalaydi. Alohida tibbiy kengashlar shifokorlarni litsenziyalash, bemorlarning shikoyatlarini tekshirish va qonunni buzgan shifokorlarni jazolash uchun javobgardir. FSMB milliy baholash dasturini taqdim etish, hujjatlarni rasmiylashtirish va vakolatlarni taqsimlashni osonlashtirish uchun vositalarni taqdim etish, intizomiy choralarni kuzatish uchun milliy ma'lumotlar bazasiga homiylik qilish va alohida masalalar kengashlari uchun milliy ovoz sifatida harakat qilish orqali davlat maslahatchilari nomidan ishlaydi. litsenziyalash va amaliyot uchun muhim.",
+
+  "usmle_big_p_4": "NBME notijorat tashkilot bo'lib, sog'liqni saqlash mutaxassislarini baholash orqali jamoatchilikka xizmat qiladi. Taxminan 80 a'zodan iborat kengash tarkibiga imtihonlarni rivojlantirishga hissa qo'shadigan milliy ekspertlar vakillari, turli nuqtai nazarlarni ifodalovchi keng a'zolar, shu jumladan jamoatchilik va bir qator tashkilotlar vakillari, jumladan Amerika Tibbiyot kollejlari assotsiatsiyasi ( AAMC). ), Amerika Tibbiyot mutaxassisliklari kengashi (ABMS), Amerika tibbiyot assotsiatsiyasi (AMA), AMA rezidentlari va stipendiatlari bo'limi, Amerika tibbiyot talabalari assotsiatsiyasi (AMSA), Tibbiyot mutaxassisliklari jamiyatlari kengashi (CMSS), Xalqaro tibbiyot bitiruvchilari uchun ta'lim komissiyasi (ECFMG), FSMB, talabalar milliy tibbiyot assotsiatsiyasi (SNMA), huquqni muhofaza qilish organlari va faxriylar ishlari bo'limi.",
+
+  "usmle_big_p_5": "NBME uyda va chet elda tibbiy ta'lim, litsenziyalash va sertifikatlashda qo'llaniladigan bir qator baholashlarni ishlab chiqadi va tibbiy ta'lim va baholash fanini rivojlantirishga qaratilgan tadqiqot va ishlanmalarda ishtirok etadi.",
+
+  "usmle_big_p_6": "USMLE ECFMG, FSMB, NBME va jamoatchilik a'zolarini o'z ichiga olgan qo'mita tomonidan boshqariladi. Ushbu qo'mita dasturning umumiy boshqaruvi, ball olish va o'tish/qobiliyatsiz standartni aniqlash tartib-qoidalarini, shuningdek, barcha tegishli siyosat va tartiblarni belgilash va tasdiqlash uchun javobgardir.",
+
+  "usmle_big_p_7": "USMLE Qo'shma Shtatlardagi allopatik shifokorlar uchun tibbiy litsenziyaga yagona yo'l zarurligiga javoban yaratilgan. USMLE dan oldin bir nechta imtihonlar (NBME Parts imtihoni va Federatsiya litsenziyalash imtihoni [FLEX]) tibbiy litsenziya olish yo'llarini taklif qilgan. Har bir shtatda qabul qilinadigan imtihonlarning yagona tizimini yaratish, barcha litsenziyaga ega shifokorlar qaysi maktabda yoki qaysi davlatda o'qiganidan qat'i nazar, bir xil baholash standartlaridan o'tishlarini ta'minlash maqsadga muvofiq edi. Bugungi kunda barcha davlat tibbiy kengashlari milliy imtihondan foydalanadilar - allopatik shifokorlar uchun USMLE, osteopatik shifokorlar uchun COMLEX-USA.",
+
+  "usmle_big_p_8": "Amerika Qo'shma Shtatlari Tibbiy Litsenziyalash Imtihon (USMLE) dasturi shifokorlarni amaliyotga tayyorlash davomida yuqori sifatli baholashni ishlab chiqish, yetkazib berish va doimiy ravishda takomillashtirish bo'yicha etakchilik orqali Qo'shma Shtatlardagi tibbiy litsenziyalash organlarini qo'llab-quvvatlaydi.",
+
+  "usmle_big_p_8_p": "Maqsadlar:",
+  "usmle_big_p_8_li_1": "Litsenziyalovchi organlarga shifokorning xususiyatlarini baholash natijasida kelib chiqadigan mazmunli ma'lumotlarni, shu jumladan bemorlarga xavfsiz va samarali yordam ko'rsatish uchun muhim bo'lgan tibbiy bilim, ko'nikma, qadriyatlar va munosabatlarni taqdim eting.",
+  "usmle_big_p_8_li_2": "Ushbu baholashlarni ishlab chiqish va ishlab chiqishda sog'liqni saqlash o'qituvchilari va ularning muassasalarini, litsenziyalovchi organlar a'zolarini va amaliyotchi klinisyenlarni jalb qiling.",
+  "usmle_big_p_8_li_3": "Eng yuqori professional test standartlari orqali shifokorlarning adolatliligi va tengligini ta'minlash.",
+  "usmle_big_p_8_li_4": "Shifokorlarni yanada aniqroq va har tomonlama baholash uchun litsenziyalash uchun baholashlarni ishlab chiqish va takomillashtirishni davom ettiring.",
+
+
+
+  "footer_p":"Biz bilan ilmning yuqori cho‘qqilarini egallang va malakali shifokorga aylaning",
+  "fopter_litsenziya":"Litsenziya L-4409568, 09.11.2022y.",
+  "fakultetlar":"Fakultetlar",
+  "davolash_ishi_fakulteti":"Davolash ishi fakulteti",
+
+  "rektor-name":"Xolmirzayev Orifjon Numonjon o'g'li",
+  "rektor_lavozim":"Impuls Tibbiyot Instituti rektori",
+  "rektor-qabul_kunlari":"Qabul kunlari: Dushanbadan - Shanba, 14:00 - 17:00 gacha",
+  "rektor-tel":"Tel: +998 (91) 353 02 52",
+  "rektor-email":"E-mail: kholmirzayev@impulsmi.uz",
+  "rektor_mehnat_faoliyati":"Mehnat faoliyati",
+  "r-mh_1":"2018 yil Namangan shahar 3 - oilaviy poliklinika umumiy amaliyot shifokori",
+  "r-mh_2":"2018 - 2021 yil Toshkent tibbiyot akademiyasi travmatologiya-ortopediya va XDJ kafedrasi magistranti",
+  "r-mh_3":"2019 - 2021 yil Toshkent tuman tibbiyot birlashmasi shoshilinch qabul bo'limi travmatologi",
+  "r-mh_4":"2021 yil Namangan shahar ko'p tarmoqli markaziy poliklinikasi travmatolog ortepedi",
+  "r-mh_5":"2021 - 2022 yil Namangan davlat universiteti tibbiyot kafedrasi o'qituvchisi va shu yillar mobaynida tibbiyot fakulteti o'quv ishlar bo'yicha dekan o'rinbosari",
+  "r-mh_6":"2022 - 2023 yil Impuls tibbiyot instituti tibbiyot fakulteti kafedra mudiri",
+  "r-mh_7":"2023 yildan Impuls tibbiyot instituti rektori",
+
+
+  "prorektor_lavozim_1":"O'QUV ISHLARI BO'YICHA PROREKTOR V.V.B",
+  "prorektor-name":"Adilov Sadirbek Adilovich",
+  "prorektor_lavozim":"Mutaxassisligi Ona tili va adabiyoti (Qirg'iz tili va adabiyoti)",
+  "prorektor-qabul_kunlari":"Qabul kunlari: Dushanbadan - Shanbagacha, 08:00 - 17:00 gacha",
+  "prorektor-tel":"Tel: +998 (94) 678 97 00",
+  "prorektor-email":"E-mail: anddupi2@gmail.com",
+  "prorektor_mehnat_faoliyati":"Mehnat faoliyati",
+  "pr-mh_1":"2016 - 2020 yy – Andijon davlat universiteti talabasi",
+  "pr-mh_2":"2020 - 2021 yy – Andijon davlat universiteti filologiya fakulteti uslubchisi",
+  "pr-mh_3":"2021 - 2022 yy - Andijon davlat pedagogika instituti o'quv uslubiy bo'lim boshlig'i o'rinbosari",
+  "pr-mh_4":"2022 - 2023 yy - Impuls Tibbiyot Instituti o'quv uslubiy bo'lim boshlig'i",
+  "pr-mh_5":"2023 - h.v Impuls Tibbiyot Instituti o'quv ishlari bo'yicha prorektor v.v.b",
+
+  "nizom":"IMPULS TIBBIYOT INSTITUTI NIZOMI",
+  "nizom-btn":"Ko'rish",
+  "nizom_page_text":"Nizom",
+
+  
+
+  "avzallik_1_1":"USMLE dasturi",
+  "avzallik_1_2":"Butun dunyo tibbiyot muassasalari tan oladigan o'quv tizimi. ",
+  "avzallik_2_1":"Gibrid ta'lim",
+  "avzallik_2_2":"Umumiy video bloklar mavjudligi ya'ni faqatgina ma'ruzaga asoslangan ta'lim emas",
+  "avzallik_3_1":"Erkin ta'lim",
+  "avzallik_3_2":"Forma erkinligi, darsda ishtirok etolmagan fanini qayta topshirish yo'qligi",
+  "avzallik_4_1":"Ingiliz tili",
+  "avzallik_4_2":"Chuqurlashtirilgan ingliz tili kurslari (IELTS)",
+  "Talabalar_turar_joyi":"Talabalar turar joyi",
+
+
+  "yt_info_column_1_txt_1":"Institutda minglab o'rinli katta talabalar turar joyi, jumladan, ikki, uch va to'rtta yotoq xonalari mavjud. Turar joy institutdan piyoda 15 daqiqa, avtobusda 5 daqiqa, bundan tashqari mahalliy taksi xizmatlari ancha arzon. Institut barcha xorijlik va ichki (O‘zbekistonning boshqa viloyatlaridan tahsil olayotganlar uchun) talabalarni o‘z xohishiga ko‘ra xona bilan ta’minlashi mumkin.",
+  "student":"TALABALAR",
+  "ACCOMMODATION":"TURARA JOYI",
+  "yt_info_column_1_txt_2":"Chet ellik talabalar o'qish davrida qaerda qolishlarini tanlashlari mumkin. Shuningdek, ular mehmonxonalar, yotoqxonalar va mahalliy uylar, ijaraga beriladigan kvartiralarni tanlashlari mumkin. Eng arzoni yiliga 700 dan 1 000 dollargacha turadigan talabalar turar joyidir.",
+  "yt_info_column_1_txt_3":"Talabalar uchun barcha qulayliklar yaratilgan: oshxona, hammom, kutubxona, kompyuter bilan jihozlangan. Bundan tashqari, institutda bepul basseyn, sport zali, tennis, futbol maydonchasi va stol tennisi mavjud. Ko'ngilochar maqsadlarda talabalarning o'zlari kuzatishi mumkin bo'lgan radio mavjud.",
+  "rooms":"300 XONA",
+
+  "Karimov_Muxammadali": "Karimov Muxammadali Abduxoliqovich",
+  "Karimov_Muxammadali_info": "31-iyul 1983-yil Namangan viloyati, Kosonsoy tumanida ishchilar oilasida tugʻilgan. 1991-yil Kososnsoy tumanidagi S.Ayniy nomli 36 oʻrta maktabga kirgan.",
+  "mh": "Mehnat faoliyati",
+  "Karimov_Muxammadali-p_1": "1999 yil Kososnsoy tumanidagi Z.M.Bobur nomidagi 30 internat maktabni 9 sinfiga qabul qilingan.",
+  "Karimov_Muxammadali-p_2": "2002 yili Andijon davlat tibbiyot instituti “Davolash ishi” fakultetiga davlat granti asosida 1 kursga qabul qilingan.",
+  "Karimov_Muxammadali-p_3": "2009-2012 y.- Andijon davlat tibbiyot instituti “Onkologiya” mutaxassisligi boʻyicha magistraturani tamomlagan.",
+  "Karimov_Muxammadali-p_4": "2012-2018 y. - Andijon davlat tibbiyot institutining “Onkologiya va tibbiy radiologiya” kafedrasi assistenti boʻlib ishlagan.",
+  "Karimov_Muxammadali-p_5": "2018 – 2021 y.y. - Andijon davlat tibbiyot institutining “Onkologiya” mutaxassisligi tayanch doktoranti. ",
+  "Karimov_Muxammadali-p_6": "2021 y 21-sentyabr kuni Samarqand davlat tibbiyot universiteti huzuridagi ilmiy kengashda “Bolalarda ogʻiz boʻshligʻi gemangiomalarini turli diapazondagi IQ-lazerlar bilan kompleks davolashning solishtirma samadorligi” mavzusida PhD himoya qildi.",
+  
+  "Sapiyev_Tursunpolot": "Sapiyev Tursunpolot Sobitovich",
+  "Sapiyev_Tursunpolot_info": "17-avgust 1975-yil Namangan viloyati, Chortoq tumanida tugʻilgan.",
+  "Sapiyev_Tursunpolot_mh": "Mehnat faoliyati",
+  "Sapiyev_Tursunpolot-p_1": "1992-1993 yy. - Namangan sanoat-texnologiya instituti talabasi",
+  "Sapiyev_Tursunpolot-p_2": "1993-1997 yy. - Namangan davlat universiteti talabasi",
+  "Sapiyev_Tursunpolot-p_3": "1997-1998 yy. - Namangan davlat universiteti umumiy “Kimyo” kafedrasi stajyor tadqiqotchisi",
+  "Sapiyev_Tursunpolot-p_4": "1998-2001 yy. - Namangan davlat universiteti aspiranti",
+  "Sapiyev_Tursunpolot-p_5": "2001-2006 yy. - Namangan davlat universiteti umumiy “Kimyo” kafedrasi oʻqituvchisi",
+  "Sapiyev_Tursunpolot-p_6": "2006-2007 yy. - Namangan davlat universiteti umumiy “Kimyo” kafedrasi katta oʻqituvchi",
+  "Sapiyev_Tursunpolot-p_7": "2007-2008 yy. - Namangan davlat universiteti umumiy “Kimyo” kafedrasi mudiri",
+  "Sapiyev_Tursunpolot-p_8": "2009-2011 yy. - Oʻzbekiston respublikasi fanlar akademiyasi  Polimerlar kimyosi va fizikasi instituti  doktoranti",
+  "Sapiyev_Tursunpolot-p_9": "2012-2013 yy. - Namangan davlat universitetining “Kimyo” kafedrasi katta oʻqituvchisi ",
+  "Sapiyev_Tursunpolot-p_10": "2013 -2013 yy. - Namangan davlat universitetining tabiiy fanlar va geografiya fakulteti dekani vazifasini bajaruvchi",
+  "Sapiyev_Tursunpolot-p_11": "2017 - 2020 yy. - Namangan davlat universitetining “Kimyo” kafedrasi  dotsenti v.b. bajaruvchi",
+  "Sapiyev_Tursunpolot-p_12": "2020 - 2020 yy. - Namangan davlat universitetining “Kimyo” kafedrasi  dotsenti",
+  "Sapiyev_Tursunpolot-p_13": "2020 -2022 yy.  - Namangan davlat universitetining “Organik kimyo” kafedrasi  mudiri",
+  "Sapiyev_Tursunpolot-p_14": "2022 x.v - Namangan davlat universitetining “Organik kimyo” kafedrasi  dotsenti",
+
+  
+  "Nodirov_Alisher": "Nodirov Alisher Avazovich",
+  "Nodirov_Alisher_info": "18-iyul 1986-yil Namangan viloyati, Chust tumanida tugʻilgan.",
+  "Nodirov_Alisher_mh": "Mehnat faoliyati",
+  "Nodirov_Alisher-p_1": "2004-2010 yy. - Namangan davlat universiteti talabasi",
+  "Nodirov_Alisher-p_2": "2010-2012 yy. - Namangan davlat universiteti kimyo kafedrasi oʻqituvchisi",
+  "Nodirov_Alisher-p_3": "2012 й. - 2019 yy. - Namangan muhandislik-pedagogika instituti (2017-yildan Namangan muhandislik-qurilish instituti) akademik litseyining kimyo fani oʻqituvchisi",
+  "Nodirov_Alisher-p_4": "2019 y . - Namangan davlat universiteti kimyo kafedrasi oʻqituvchisi",
+  "Nodirov_Alisher-p_5": "2020 y . - Namangan davlat universiteti noorganik kimyo kafedrasi oʻqituvchisi",
+  "Nodirov_Alisher-p_6": "2021 y - Namangan davlat universiteti tayanch doktorant",
+
+
+  "kutubxona_info_text_p_1": "Impulse Medical Institute katta kutubxonaga ega bo'lib, u har kuni o'n olti soat davomida talabalarga xizmat qiladi, shu jumladan dam olish kunlari va bank bayramlari. Yigirma tildan iborat minglab kitoblar mavjud.",
+  "kutubxona_info_text_p_2": "Impulse Medical Institute katta kutubxonaga ega bo'lib, u har kuni o'n olti soat davomida talabalarga xizmat qiladi, shu jumladan dam olish kunlari va bank bayramlari. Yigirma tildan iborat minglab kitoblar mavjud.",
+  "kutubxona_info_text_p_3": "Kitoblarning aksariyati tibbiy bo'lsa-da, jahon adabiyoti kitoblari, tibbiyot va ilm-fanga oid dunyoda tan olingan jurnallar mavjud. O'zbek tilini boshidanoq o'rganishga qiziquvchilar uchun xorijlik talabalar uchun bepul ona tili kurslari o'tkaziladi.",
+
+  "kutubxona_info_text_p_4": "Kitoblarning aksariyati tibbiy bo'lsa-da, jahon adabiyoti kitoblari, tibbiyot va ilm-fanga oid dunyoda tan olingan jurnallar mavjud. O'zbek tilini boshidanoq o'rganishga qiziquvchilar uchun xorijlik talabalar uchun bepul ona tili kurslari o'tkaziladi.",
+  "Librarian": "Kutubxonachi",
+  "Shoira_Do'lasheva": "Shoira Do'lasheva",
+  "Contact_details": "Aloqa",
+  "for_more": "Qo'shimcha ma'lumot olish uchun bizning veb-saytimizga tashrif buyuring",
+
+
+  "bino_box_h1_2":"NIMA TANLOV ?",
+  "bino_box_p_1":"Impuls Medical Institute (IMI) — Oʻzbekistonning Namangan shahridagi xususiy institut. U vodiy deb nomlangan mamlakatning sharqiy tomonida joylashgan. 2019-yilda Andijon tibbiyot institutining (AMI) yigirma besh yillik tajribaga ega filiali sifatida tashkil etilgan. Institut AMI bilan hamkorlik shartnomasiga ega.",
+  "bino_box_li_1":"USMLE (Amerika Qo'shma Shtatlari Tibbiyot Litsenziyalash Ekspertizasi) o'rganish",
+  "bino_box_li_2":"Work and Travel",
+  "bino_box_li_3":"Gibrit ta'lim",
+  "bino_box_li_4":"Imtihonlarda eng yuqori natijalarga erishganlarning 10% uchun grantlar",
+  "bino_box_li_5":"Amaliyotga asoslangan ta'lim",
+
+  "fakultet_info_h1":"Davolah ishi fakulteti",
+
+  "fakultet_info_txt_1":"Talabalar hozirda kattalardagi kasalliklarning oldini olish, tashxislash va davolashni o‘z ichiga olgan umumiy tibbiyot yo‘nalishi bo‘yicha tahsil olmoqda. Ayni paytda tibbiyot fakultetida tahsil olayotgan talabalar ilg‘or bosqichda tibbiyot fanlari sohasi bilan tajriba amaliyoti, kuzatish, nazariy va amaliy bilimlar orqali yaqindan tanishmoqda. Bundan tashqari, talabalar haftada bir marta Impulse tibbiyot instituti bilan hamkorlik qiluvchi klinikalardan biriga tashrif buyurib, umumiy diagnostika va davolashda ishtirok etishlari mumkin. Bundan tashqari, tez orada talabalar uchun Institutning o'zidan tomosha qilishlari uchun davolanishning jonli videolari namoyish etiladi.",
+  "fakultet_info_txt_2":"2023-yil sentabridan yana uchta fakultet talabalar uchun ochiladi. Bular stomatologik amaliyot fakulteti, pediatriya fakulteti va farmatsevtika fanlari fakultetidir. Mahalliy va xalqaro talabalar ushbu bo'limlarda faqat bakalavr talabasi sifatida to'liq vaqtda o'qishlari mumkin. O‘quv tuzilmasi USMLE tizimiga asoslanganligi sababli barcha darslar ingliz tili darajasi B2 dan past bo‘lmagan yuqori malakali o‘qituvchilar va PhDlar tomonidan ingliz tilida olib boriladi.",
+
+  "india_hamkor_footer_h1":"Bizning hamkorlarimiz",
+  "india_hamkor_footer_p":"2023-2024 o'quv yili uchun xalqaro talabalar uchun 1000 ta o'rin mavjud. Shunday qilib, har qanday pudratchilar va agentliklarga xush kelibsiz. Biz bilan bog'lanish.",
+  "india_hamkor_footer_p_w":"Whatsapp: +998949507697 , Elektron pochta manzili: info@impulsmi.uz",
+  "india_hamkor_footer_p_1":"Firma - RAB MEDICO SERVICE",
+  "india_hamkor_footer_p_2":"Manzil: B-9, B-10 Dharampali saroyi, 2-qavat, Vinayak kasalxonasi yaqinida, sektor - 27, eng yaqin metro sektori-18, Noida, 201301  ",
+  "india_hamkor_footer_p_3":"Telefon: +91 8540 040 872  |  +998 909 410 786  |  +91 8340 429 258",
+  "Login_portal":"Kirish",
+  "Mentor":"O'qituvchi",
+  "Student":"Talaba"
+  
+
+
+}
+
+
+

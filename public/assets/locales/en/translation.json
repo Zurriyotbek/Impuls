@@ -1,0 +1,286 @@
+
+{
+  "impuls": "IMPULS",
+  "impuls_2": "MEDICAL INSTITUTE",
+  "name_univer": "Impuls Medical Institute",
+  "bosh_sahifa": "About IMI",
+  "usmle": "USMLE",
+  "biz_haqimizda": "About us",
+  "el_kutibxona": "Electronic Library",
+  "kutibxona": "Library",
+  "aloqa": "Contact",
+  "ariza_qoldirish": "Submit an application",
+  "FAQ": "FAQ",
+  "navtop_location": "1 K. Otamirzayev street, Namangan, 160100",
+  "imi_support": "imi_support",
+  "tuzilma": "Structure",
+  "o'quv_bino": "Learning Campus",
+  "imi_nizom": "Charter of the institute",
+  "rektorat": "Rectory",
+  "rektor": "Rector",
+  "kengash": "Council of the institute",
+  "markaz_bo'lim": "Center and departments",
+  "bosh_sahifa": "HOME PAGE",
+  "teachers": "Teachers",
+  "sertficate_link_p": "To download a notarial translation of the institute licence and certificate click the link",
+  "litsenziya_link_a_1": "Certificate",
+  "litsenziya_link_a_2": "License",
+  "fakultet": "Faculties",
+  "hujjat_topshirish": "Submission of documents",
+
+  
+
+
+  "biz_haqimzida_h1": "Impuls Medical Institute",
+  "biz_haqimizda_p-1": "Impuls Medical Institute strives to become the leading institution of higher education in the region and contribute to the development of Uzbekistan.",
+  "biz_haqimizda_p-2": "The mission of the institute: taking into account the country's need for medical workers, train a sufficient number of students, offer solutions for the training of professional personnel, produce new educational technologies and develop teaching principles. Impuls Medical Institute provides education to students from different countries according to internationally recognized standards.",
+  "biz_haqimizda_p-3": "The educational process is carried out in cooperation with leading international research institutes, including in the field of medicine and our compatriots working abroad. Training is conducted in English and Uzbek and lasts 6 years. Graduates are awarded a diploma of higher education. The Impuls Institute is well aware of its responsibility and directs its energies and capabilities to create an intellectual environment in which students and teachers can conduct effective research together. The Institute strives to offer its students the most modern and high-quality education. Every student who embarks on this long educational journey will graduate from the institute as a man fully armed with his knowledge.",
+  "biz_haqimizda_p-4": "The Impuls Institute is well aware of this responsibility and strives to create an intellectual environment where students and faculty can conduct research effectively and productively together. The Institute strives to offer its students the most modern and high-quality education. Each student who enters this long educational path at our institute comes out of it as a man fully armed and fully equipped with his knowledge.",
+  "biz_haqimizda_btn": "More about us",
+
+
+
+  "impuls_box_h1_1": "Impuls",
+  "impuls_box_p_1": "open the door to world knowledge with the medical institute.",
+  "impuls_box_h1_2": "International",
+  "impuls_box_p_2": "standard medical institute now in Namangan you should be with us.",
+  "impuls_box_h1_3": "In Namangan",
+  "impuls_box_p_3": "the first private digital medical institute.",
+
+  "ko'p_beriladighan_savollar": "Frequently asked Questions",
+  "accordion_section_p": "Impuls Institute strives for excellence in teaching, learning and research. Impuls Institute and its founder are working hard to create the most modern conditions for students and employees. Our goal is to create the best educational and research environment not only in Uzbekistan, but also in Central Asia.",
+
+  "savol_1": "Is your diploma recognized in Uzbekistan ?",
+  "javob_1": "The diploma of students who graduated from the Medical Institute IMPULS is recognized not only in Uzbekistan, but throughout the world.",
+
+  "savol_2": "How much is the tuition fee ?",
+  "javob_2": "The cost of the tuition fee is 33,000,000 soums (3,000 US dollars) for local students in Uzbekistan, it may slightly be differtent for international students. and we also have the option of paying in installments.",
+
+  "savol_3": "What languages ​​are the lessons in ?",
+  "javob_3": "All classes are held in Uzbek or English, depending on the group.",
+
+  "savol_4": "Are there scholarships ?",
+  "javob_4": "The institute provides 100% scholarships for students who get USMLE step one exam. In addition, top 10% of students who get the highest results in exams the institute gives full scholarship for that year.",
+
+  "savol_5": "What documents are needed for admission ?",
+  "javob_5": "One of the stages of successful admission to IMPULS Medical is the submission of an application. To do this, you will need to provide the following: -Original school or high school diploma.",
+  "javob_5_span_1": "— A copy of the passport (2 pcs.);",
+  "javob_5_span_2": "— Picture 3x4 (6 pieces);",
+  "javob_5_span_3": "Documents can be submitted in PDF format or online at the Public Service Center in Namangan.",
+
+  "savol_6": "What are the preparatory courses ?",
+  "javob_6": "Preparatory courses are required to successfully pass the exams and receive a grant education at IMPULS Medical. The program lasts 6 months and consists of subjects of English and anatomy. Those who complete the course will have an IELTS score of 5.0. This is a great opportunity to improve your knowledge and get a budget place at the Institute.",
+
+  "savol_7": "What do we offer students ?",
+  "javob_7": "IMPULS Medical offers special grants for those who pass the exams with high scores. We conduct entrance exams to the institute, i.e., special preparation courses on anatomy and English language, the graduates of which are assigned a passing score of 4.5 on the IELTS exam ✅ All this is done in order to support the aspirations of students and increase their confidence in the future.",
+
+  "footer_h1": "Contact info",
+  "link_1": "Namangan city, Brick bridge MFY, K. Otamirzayev street, 1 house",
+  "sahifalarimiz": "Pages",
+
+  "banner_h1": "Welcome to",
+  "banner_h2": "Impuls Medical Institute",
+
+  "header_h1": "Impuls Medical Institute",
+  "header_p_1": "Impuls Institute was established on the basis of the decision of the Cabinet of Ministers of the Republic of Uzbekistan dated February 15, 2019. Our Institute strives to become the leading institution of higher education in the region and contribute to the development of Uzbekistan. we know and understand the importance of our geographic location.",
+  "header_p_2": "The mission of our Institute: to train a sufficient number of people in the areas necessary for the country, to offer solutions for the training of professional personnel, to produce new educational technologies, to develop the principles of education and training. Impuls Institute provides education to students from different countries according to internationally recognized standards. The Institute trains highly qualified specialists in fundamental, medical, special and humanitarian sciences. In addition to the MD program, the Master's program is offered by highly qualified internationally recognized academic staff.",
+
+  "header_p_3": "The educational process is carried out in cooperation with leading international research institutes, including the Gachon Institute in the field of medicine (South Korea) and our compatriots working abroad. Education is conducted in English and lasts 6 years (2 years of the preparatory course, 4 years of the medical course at the Faculty of Medicine). Graduates are awarded a diploma of higher education. Research, discovery and the search for truth are important characteristics of the Institute.",
+
+  "header_p_4": "Impuls Institute is well aware of this responsibility and strives to create an intellectual environment in which students and faculty can conduct research effectively and productively together. The Institute strives to offer its students the most modern and high-quality education. Every student who enters this long educational journey at our Institute graduates as a person, fully equipped and armed with his knowledge.",
+
+  "gallery_h1": "Interior views of our institute",
+
+  "kutibxona_banner_h1": "Impuls Institute Library",
+  "ilmiy_kitoblar": "Scientific books",
+  "adabiy_kitoblar": "Literary books",
+  "oqish_btn": "Reading",
+  "search_btn": "Search",
+
+  "message-ok": "Your message has been sent. We will contact you within 24 hours",
+
+  "aloqa_h1": "Do you have a question for us?",
+  "left_menu_h1": "We'll be in touch",
+  "left-menu_p": "Leave us a message and we will contact you within 24 hours.",
+  "manzil": "Address: Namangan city, Brick bridge MFY, K. Otamirzayev street, 1 house",
+  "pochta": "Email: impulsmedica7@gmail.com",
+  "telefon": "Phone: + 69 239 50 15",
+  "pl_1": "Your name:",
+  "pl_2": "Your email:",
+  "pl_3": "Phone number:",
+  "textarea": "Message:",
+  "form_btn": "Send",
+  "habar": "Leave your message",
+
+  "about_usmle": "About the USMLE",
+  "about_usmle_text": "The United States Medical Licensing Examination® (USMLE®) is a three-step examination for medical licensure in the U.S. The USMLE assesses a physician's ability to apply knowledge, concepts, and principles, and to demonstrate fundamental patient-centered skills, that are important in health and disease and that constitute the basis of safe and effective patient care.",
+  "about_usmle_btn": "To know more",
+
+
+  
+  "usmle_big_h1_1": "Who is USMLE?",
+  "usmle_big_h1_2": "Who Governs USMLE?",
+  "usmle_big_h1_3": "Why One National Examination?",
+  "usmle_big_h1_4": "USMLE Mission Statement",
+
+  "usmle_big_p_1": "In the United States and its territories, the individual medical licensing authorities ('state medical boards') of the various jurisdictions grant a license to practice medicine. Each medical licensing authority sets its own rules and regulations and requires passing an examination that demonstrates qualification for licensure. Results of the USMLE are reported to these authorities for use in granting the initial license to practice medicine. The USMLE provides them with a common evaluation system for applicants for initial medical licensure.",
+
+  "usmle_big_p_2": "The USMLE®, or the United States Medical Licensing Examination® program, is owned by two entities: the Federation of State Medical Boards (FSMB) and the National Board of Medical Examiners® (NBME®).",
+
+  "usmle_big_p_3": "The FSMB is a non-profit organization that represents the 70 state medical and osteopathic boards of the United States and its territories. The individual medical boards are responsible for licensing physicians, investigating patient complaints, and disciplining physicians who violate the law. The FSMB acts on behalf of its state board members in providing a national assessment program, providing tools that facilitate the documentation and distribution of credentials, sponsoring a national data base for tracking disciplinary actions, and acting as a national voice for the individual boards on issues of importance to licensing and practice.",
+
+  "usmle_big_p_4": "The NBME is a non-profit organization that serves the public through assessments of health professionals. The approximately 80-member board includes representation from national experts who contribute to the design of its examinations, at-large members who bring a variety of perspectives including the public, and representatives from a number of organizations including the Association of American Medical Colleges (AAMC), the American Board of Medical Specialties (ABMS), the American Medical Association (AMA), the Resident and Fellows Section of the AMA, the American Medical Student Association (AMSA), the Council of Medical Specialty Societies (CMSS), the Educational Commission for Foreign Medical Graduates (ECFMG), FSMB, the Student National Medical Association (SNMA), the uniformed services, and the Department of Veterans Affairs.",
+
+  "usmle_big_p_5": "The NBME develops a number of assessments used in medical education, licensure, and certification, domestically and internationally, and is involved in research and development intended to advance medical education and the science of assessment.",
+
+  "usmle_big_p_6": "USMLE is governed by a committee that includes members from the ECFMG, FSMB, NBME, and the public. This committee is responsible for the overall direction of the program, identifying and approving procedures for scoring and determining the pass/fail standard, and all significant policies and procedures.",
+
+  "usmle_big_p_7": "USMLE was created in response to the need for one path to medical licensure for allopathic physicians in the United States. Before USMLE, multiple examinations (the NBME Parts examination and the Federation Licensing Examination [FLEX]) offered paths to medical licensure. It was desirable to create one examination system accepted in every state, to ensure that all licensed MDs had passed the same assessment standards – no matter in which school or which country they had trained. Today all state medical boards utilize a national examination – USMLE for allopathic physicians, COMLEX-USA for osteopathic physicians.",
+
+  "usmle_big_p_8": "The United States Medical Licensing Examination (USMLE) program supports medical licensing authorities in the United States through its leadership in the development, delivery, and continual improvement of high-quality assessments across the continuum of physicians' preparation for practice.",
+
+  "usmle_big_p_8_p":"Goals:",
+  "usmle_big_p_8_li_1":"To provide to licensing authorities meaningful information from assessments of physician characteristics—including medical knowledge, skills, values, and attitudes—that are important to the provision of safe and effective patient care.",
+  "usmle_big_p_8_li_2":"To engage medical educators and their institutions, licensing authority members, and practicing clinicians in the design and development of these assessments.",
+  "usmle_big_p_8_li_3":"To assure fairness and equity to physicians through the highest professional testing standards.",
+  "usmle_big_p_8_li_4":"To continue to develop and improve assessments for licensure with the intent of assessing physicians more accurately and comprehensively.",
+
+
+    
+  "footer_p":"Take the heights of science with us and become a qualified doctor",
+  "fopter_litsenziya":"License L-4409568, 11/09/2022.",
+  "fakultetlar":"Faculties",
+  "davolash_ishi_fakulteti":"General Medicine Faculty",
+  
+  "rektor-name":"Kholmirzayev Orifjon Numonovich",
+  "rektor_lavozim":"Rector of the Impuls Medical Institute",
+  "rektor-qabul_kunlari":"Reception days: Monday - Saturday, 14:00 - 17:00",
+  "rektor-tel":"Tel: +998 (91) 353 02 52",
+  "rektor-email":"E-mail: kholmirzayev@impulsmi.uz",
+  "rektor_mehnat_faoliyati":"Labor activity",
+  "r-mh_1":"2018 Namangan city 3 - family polyclinic general practitioner  ",
+  "r-mh_2":"2018 - 2021 graduate student of the Department of Traumatology-Orthopedics and Orthopedics of the Tashkent Medical Academy",
+  "r-mh_3":"2019 - 2021 traumatologist of the emergency department of the Tashkent district medical association",
+  "r-mh_4":"2021 Namangan city multidisciplinary central polyclinic traumatologist orthopedist",
+  "r-mh_5":"2021 - 2022, teacher of the medical department of Namangan State University and during these years the deputy dean of the medical faculty for educational affairs",
+  "r-mh_6":"2022 - 2023 Head of the Faculty of Medicine of Impuls Medical Institute",
+  "r-mh_7":"2023 Rector of the Medical Institute Impuls",
+
+
+
+  "nizom":"REGULATION OF IMPULS MEDICAL INSTITUTE",
+  "nizom-btn":"View",
+  "nizom_page_text":"Regulation",
+
+
+  "avzallik_1_1":"USMLE program",
+  "avzallik_1_2":"A training system recognized by medical institutions around the world.",
+  "avzallik_2_1":"Hybrid education",
+  "avzallik_2_2":"The presence of shared video blocks means that it is not just lecture-based learning",
+  "avzallik_3_1":"Free education",
+  "avzallik_3_2":"Freedom of form, no re-submission of the subject of failure",
+  "avzallik_4_1":"English",
+  "avzallik_4_2":"Advanced English Language Courses (IELTS) ",
+  "Talabalar_turar_joyi":"Student Accommodation",
+
+
+  "yt_info_column_1_txt_1":"Institute has a big student accommodation with the capacity of thousands beds, including two, three and four bedrooms. The accommodation is 15 minutes walk far from the Institute, 5 minutes by bus, in addition local taxi services are much cheaper. The institute can provide all overseas and internal(for those who are studying from other regions of Uzbekistan)students with a room based on their desire.",
+  "student":"STUDENT",
+  "ACCOMMODATION":"ACCOMMODATION",
+  "yt_info_column_1_txt_2":"Overseas students can choose where they stay during their study period. They can choose also hotels, hostels and local houses, apartments to rent. The most affordable one is student accommodation which costs between 700 USD and 1,000 USD per year.",
+  "yt_info_column_1_txt_3":"There are all facilities provided for students: canteen, bathroom, library with enough PC. Apart from that, the institute provides free swimming pool, gym, tennis, football pitch and ping pong. For entertainment purposes, there is radio which can be monitored by students themselves.",
+  "rooms":"300 ROOMS",
+
+
+  "Karimov_Muxammadali": "Karimov Muhammadali Abdukholikovich",
+  "Karimov_Muxammadali_info": "Born on July 31, 1983 in a family of workers in the Kosonsoy district of the Namangan region. In 1991, he entered secondary school No. 36 named after S. Ainia, Kososnsky district.",
+  "mh": "Labor activity",
+  "Karimov_Muxammadali-p_1": "In 1999, he was admitted to the 9th grade of the 30th boarding school named after Z.M. Bobur, Kososnsky district.",
+  "Karimov_Muxammadali-p_2": "In 2002, he was admitted to the faculty of 'Treatment' of the Andijan State Medical Institute for the 1st year on the basis of a state grant.",
+  "Karimov_Muxammadali-p_3": "2009-2012 - Graduated from Andijan State Medical Institute with a master's degree in 'Oncology'  .",
+  "Karimov_Muxammadali-p_4": "2012-2018 - Worked as an assistant at the 'Oncology and Medical Radiology' department of the Andijan State Medical Institute.",
+  "Karimov_Muxammadali-p_5": "2018 - 2021 - Doctoral student of Andijan State Medical Institute, 'Oncology' specialty.",
+  "Karimov_Muxammadali-p_6": "On September 21, 2021, he submitted his candidate's dissertation to the academic council of the Samarkand State Medical University on the topic 'Comparative effectiveness of complex treatment of hemangioma of the prostate and detection of IK-laser of different ranges'.",
+
+  "Sapiyev_Tursunpolot": "Sapiev Tursunpolot Sobytovich",
+  "Sapiyev_Tursunpolot_info": "Born on August 17, 1975 in Chartokskom district, Namangan region.",
+  "Sapiyev_Tursunpolot-p_1": "1992-1993 - Student of the Namangan Industrial and Technological Institute",
+  "Sapiyev_Tursunpolot-p_2": "1993-1997 - Student of Namangan State University",
+  "Sapiyev_Tursunpolot-p_3": "1997-1998 - Intern-researcher of the Department of General 'Chemistry' of Namangan State University",
+  "Sapiyev_Tursunpolot-p_4": "1998-2001 - Postgraduate student of Namangan State University",
+  "Sapiyev_Tursunpolot-p_5": "2001-2006 - Lecturer at the Department of General 'Chemistry' of Namangan State University",
+  "Sapiyev_Tursunpolot-p_6": "2006-2007 - Senior Lecturer of the Department of General 'Chemistry' of Namangan State University",
+  "Sapiyev_Tursunpolot-p_7": "2007-2008 - Head of the Department of General 'Chemistry' Namangan State University",
+  "Sapiyev_Tursunpolot-p_8": "2009-2011 - Doctoral student of the Institute of Chemistry and Physics of Polymers of the Academy of Sciences of the Republic of Uzbekistan",
+  "Sapiyev_Tursunpolot-p_9": "2012-2013 - Senior lecturer of the department 'Chemistry' of Namangan State University",
+  "Sapiyev_Tursunpolot-p_10": "2013-2013 - Acting Dean of the Faculty of Natural Sciences and Geography of Namangan State University",
+  "Sapiyev_Tursunpolot-p_11": "2017 - 2020 - Associate Professor of the Department of Chemistry, Namangan State University v.b. executor",
+  "Sapiyev_Tursunpolot-p_12": "2020 - 2020 - Associate Professor of the Department of Chemistry, Namangan State University",
+  "Sapiyev_Tursunpolot-p_13": "2020-2022 - Head of the Department of 'Organic Chemistry' Namangan State University",
+  "Sapiyev_Tursunpolot-p_14": "2022 - Associate Professor of the Department of Organic Chemistry, Namangan State University",
+
+  "Nodirov_Alisher": "Nodirov Alisher Avazovich",
+  "Nodirov_Alisher_info": "Born on July 18, 1986 in Chust district of Namangan region.",
+  "Nodirov_Alisher-p_1": "2004-2010 - Student of Namangan State University",
+  "Nodirov_Alisher-p_2": "2010-2012 - Lecturer at the Department of Chemistry, Namangan State University",
+  "Nodirov_Alisher-p_3": "2012 - 2019 - Chemistry teacher at the Namangan Engineering and Pedagogical Institute (since 2017 Namangan Engineering and Construction Institute) of the Academic Lyceum",
+  "Nodirov_Alisher-p_4": "2019 - Lecturer at the Department of Chemistry, Namangan State University",
+  "Nodirov_Alisher-p_5": "2020 - Lecturer at the Department of Inorganic Chemistry, Namangan State University",
+  "Nodirov_Alisher-p_6": "2021 - basic doctoral student at Namangan State University",
+
+  "kutubxona_info_text_p_1": "Impuls Medical Institute has a large library that serves students for sixteen hours every single day including weekends and bank holidays. There are more than thousands books that consist of twenty languages.",
+  "kutubxona_info_text_p_2": "Impuls Medical Institute has a large library that serves students for sixteen hours every single day including weekends and bank holidays. There are more than thousands books that consist of twenty languages.",
+  "kutubxona_info_text_p_3": "While most of the books are medical, there are also world literature books, world recognized magazines about medicine and science. For those who are interested in learning Uzbek language from very beginning, free native language courses are held for overseas students.",
+
+  "kutubxona_info_text_p_4": "While most of the books are medical, there are also world literature books, world recognized magazines about medicine and science. For those who are interested in learning Uzbek language from very beginning, free native language courses are held for overseas students.",
+  "Librarian": "Librarian",
+  "Shoira_Do'lasheva": "Shoira Do'lasheva",
+  "Contact_details": "Contact details",
+  "for_more": "For more information visit our website",
+
+
+  "bino_box_h1_2":"WHYTOCHOOSEUS?",
+  "bino_box_p_1":"Impuls Medical Institute (IMI) is a private institute in Namangan, Uzbekistan. It is based in the east side of the country named Valley. Founded in 2019 as a branch of Andijan Medical Institute (AMI) which has a - twenty-five – year experience. The Institute has a cooperative contract with AMI.",
+  "bino_box_li_1":"USMLE (United States Medical Licensing Examination) study",
+  "bino_box_li_2":"Work and Travel",
+  "bino_box_li_3":"Hybrid Study",
+  "bino_box_li_4":"Grants for 10% top highest achievers in exams",
+  "bino_box_li_5":"Practice based study",
+
+  "fakultet_info_h1":"General Medicine Faculty",
+
+  "fakultet_info_txt_1":"Students are now studying general medicine which involves prevention, diagnosis, and treatment of adult diseases. Currently, students who have enrolled general medicine faculty are being familiarised on an advanced level with the field of medical science, through experimental practice, observation, theoretical and practical knowledge. In addition, students can able to visit once a week to one of the clinics which has been working cooperatively with Impuls Medical Institute and participate general medicine diagnosis and treatments. Plus, live treatment videos will be showing soon so students can watch from Institute itself",
+  "fakultet_info_txt_2":"From September 2023 another three faculties will be open for students. They are Faculty of Dental Practice, Faculty of Pediatrics and Faculty of Pharmaceutical Sciences. Local and overseas students can study full-time only on these faculties as an undergraduate student. As study structure is based on USMLE system, All lessons are held in English language by high qualified teachers and PhDs whose English levels are above B2 at least.",
+
+  "india_hamkor_footer_h1":"Our partners",
+  "india_hamkor_footer_p":"For 2023-2024 study year, there are 1000 seats available for international students. So, any contractors and agencies are welcome. Contact us.",
+  "india_hamkor_footer_p_w":"Whatsapp: +998949507697 , Email-adress: info@impulsmi.uz",
+  "india_hamkor_footer_p_1":"Firma - RAB MEDICO SERVICE",
+  "india_hamkor_footer_p_2":"Address: B-9, B-10 Dharampali Palace, 2nd Floor, Near Vinayak Hospital, Sector - 27, Nearest Metro Sector-18, Noida, 201301",
+  "india_hamkor_footer_p_3":"Phone numbers: +91 8540 040 872  |  +998 909 410 786  |  +91 8340 429 258",
+
+  "india_hamkor_footer_h1_2":"NORTH INDIA",
+  "india_hamkor_footer_p_1_2":"Mayo MD Education Group",
+  "india_hamkor_footer_p_2_2":"Address: Greater Mohali  (140301) , Chandigarh, Punjab.",
+  "india_hamkor_footer_p_3_3":"Phone numbers: +91 8837629089  |  +91 821-9628644  |  +380 (95) 032 29 08",
+  "india_hamkor_footer_p_3_4":"Email address: mayomd123@gmail.com  ||  mbbsmayomd@gmail.com",
+  "india_hamkor_footer_p_3_5":"Phone number: +91 8837629089  || +91 8219628644",
+  "india_hamkor_footer_p_3_6":"MOB: +380(95)0322908",
+  "india_hamkor_footer_p_3_7":"SOUTH INDIA",
+  "india_hamkor_footer_p_3_8":"Mahaveer Education Thane, Mumbai Maharashtra",
+  "india_hamkor_footer_p_3_9":"Director: Dr. Chirag Jain",
+  "india_hamkor_footer_p_3_10":"Email address: mahaveereduc@gmail.com  ||  mahaveereducationoverseas@gmail.com",
+  "india_hamkor_footer_p_3_11":"Phone number: +91 9860479768  || +91 9730793093",
+  "india_hamkor_footer_p_3_12":"Tamilnadu Nadu Branch",
+  "india_hamkor_footer_p_3_13":"Dr.Murugesan Balayogi",
+  "india_hamkor_footer_p_3_14":"Contact: +91 9790195505",
+  "india_hamkor_footer_p_3_15":"Bihar Branch",
+  "india_hamkor_footer_p_3_16":"Dr.Danish Kamal",
+  "india_hamkor_footer_p_3_17":"Contact: +91 7250001163",
+  "Login_portal":"Login to portal",
+  "Mentor":"Mentor",
+  "Student":"Student"
+
+
+
+}
